@@ -1,0 +1,28 @@
+**Sistema de Votación**
+
+### Requisitos previos:
+- PHP (versión 8.2)
+- MySQL (versión 8.0.31)
+- Servidor web Apache
+
+### Pasos para la instalación:
+
+1. **Descargue del código:**
+   - Clone el repositorio alojado en GitHub en la siguiente URL: https://github.com/Anibalmc89/sistema_votaciones
+
+2. **Configuración de la base de datos:**
+   - Acceda a la carpeta SQL y ejecute el archivo bd_votaciones.sql en su servidor de base de datos.
+   - Asegúrese de configurar correctamente las credenciales de la base de datos en el archivo de configuración del proyecto.
+
+3. **Configuración del entorno:**
+   - Verifique que la versión de PHP sea la requerida.
+   - Asegúrese de que el servidor web esté configurado correctamente.
+
+4. **Configuración del proyecto:**
+   - Abra el archivo de configuración del proyecto en la carpeta connect para configurar (nombre del servidor de la BD, nombre de usuario de la BD, contraseña, nombre de la BD).
+
+5. **Ejecución del proyecto:**
+   - Acceda a la URL del proyecto a través de su navegador.
+
+6. **Validación:**
+   - Realice las pruebas de votación con diferentes escenarios para asegurar que la aplicación funcione según lo esperado.
